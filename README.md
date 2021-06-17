@@ -1,4 +1,4 @@
-# app1
+# Vue catalog
 
 ## Project setup
 ```
